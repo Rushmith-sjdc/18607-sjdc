@@ -1,0 +1,15 @@
+<html>
+<head><title>formtags</title></head>
+<body>
+<form>
+name:<input type="text" name="txt"><br>
+password:<input type="txt" name="pwd"><br>
+select gender:<input type="radio" name="gen">male
+              <input type="radio" name="gen">female<br>
+select sports:<input type="checkbox" name="chkb">tennis<br>
+             <input type="checkbox" name="chkb">football<br>
+              <input type="checkbox" name="chkb">cricket<br>
+address:<text area name="ta"></textarea><br>
+</font>
+</body>
+</html>

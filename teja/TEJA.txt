@@ -1,0 +1,15 @@
+                 Programming Digest 
+Computer System 
+          1. HARDWARE 
+               a.CPU
+               b.RAM 
+               c.I/O Devices 
+          2.SOFTWARE 
+             A.System software  
+               a.operating system 
+               b.Device drivers 
+             B. Application software 
+               a.word processors 
+               b.spread sheets 
+               c.graphics software 
+                
